@@ -16,7 +16,35 @@
         </div>
     </div>
 
-    <div class="p-5"></div>
+    <div class="container">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 mt-4">
+            <div class="col mb-4">
+                <div class="border rounded shadow-sm overflow-hidden">
+                    <img src="/assets/images/prestasi.jpg" alt="foto prestasi" class="w-100">
+                </div>
+            </div>
+            <div class="col mb-4">
+                <div class="border rounded shadow-sm overflow-hidden">
+                    <img src="/assets/images/prestasi.jpg" alt="foto prestasi" class="w-100">
+                </div>
+            </div>
+            <div class="col mb-4">
+                <div class="border rounded shadow-sm overflow-hidden">
+                    <img src="/assets/images/prestasi.jpg" alt="foto prestasi" class="w-100">
+                </div>
+            </div>
+            <div class="col mb-4">
+                <div class="border rounded shadow-sm overflow-hidden">
+                    <img src="/assets/images/prestasi.jpg" alt="foto prestasi" class="w-100">
+                </div>
+            </div>
+            <div class="col mb-4">
+                <div class="border rounded shadow-sm overflow-hidden">
+                    <img src="/assets/images/prestasi.jpg" alt="foto prestasi" class="w-100">
+                </div>
+            </div>
+        </div>
+    </div>
 
     <?php require_once('components/footer.php') ?>
 

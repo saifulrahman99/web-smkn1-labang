@@ -16,7 +16,47 @@
         </div>
     </div>
 
-    <div class="p-5"></div>
+    <div class="container">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 mt-4">
+
+            <div class="col mb-4">
+                <div class="border rounded shadow-sm overflow-hidden ratio ratio-16x9">
+                    <img src="https://plus.unsplash.com/premium_photo-1765489691892-a822527a76f8?q=80&w=1170"
+                        alt="foto 1" class="w-100 h-100 object-fit-cover">
+                </div>
+            </div>
+
+            <div class="col mb-4">
+                <div class="border rounded shadow-sm overflow-hidden ratio ratio-16x9">
+                    <img src="https://plus.unsplash.com/premium_photo-1765489691892-a822527a76f8?q=80&w=1170"
+                        alt="foto 2" class="w-100 h-100 object-fit-cover">
+                </div>
+            </div>
+
+            <div class="col mb-4">
+                <div class="border rounded shadow-sm overflow-hidden ratio ratio-16x9">
+                    <img src="https://plus.unsplash.com/premium_photo-1765489691892-a822527a76f8?q=80&w=1170"
+                        alt="foto 3" class="w-100 h-100 object-fit-cover">
+                </div>
+            </div>
+
+            <div class="col mb-4">
+                <div class="border rounded shadow-sm overflow-hidden ratio ratio-16x9">
+                    <img src="https://plus.unsplash.com/premium_photo-1765489691892-a822527a76f8?q=80&w=1170"
+                        alt="foto 4" class="w-100 h-100 object-fit-cover">
+                </div>
+            </div>
+
+            <div class="col mb-4">
+                <div class="border rounded shadow-sm overflow-hidden ratio ratio-16x9">
+                    <img src="https://plus.unsplash.com/premium_photo-1765489691892-a822527a76f8?q=80&w=1170"
+                        alt="foto 5" class="w-100 h-100 object-fit-cover">
+                </div>
+            </div>
+
+        </div>
+    </div>
+
 
     <?php require_once('components/footer.php') ?>
 
