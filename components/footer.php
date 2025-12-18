@@ -8,7 +8,7 @@
                     class="d-inline-block align-text-top mb-2">
                 <h5 class="fw-bold">SMK Negeri 1 Labang</h5>
                 <p class="small text-muted">
-                    Mendidik generasi berprestasi, berkarakter, dan berakhlak mulia.
+                    Berdzikir, Berfikir, Berkarya
                 </p>
             </div>
 
@@ -26,9 +26,9 @@
             <!-- Kontak -->
             <div class="col-md-4">
                 <h6 class="fw-semibold">Kontak</h6>
-                <p class="small mb-1">📍 Jl. Pendidikan No. 10, Kota Contoh</p>
+                <p class="small mb-1">📍 Jl.Raya, Labang Dajah, Labang, Bangkalan</p>
                 <p class="small mb-1">📞 (021) 12345678</p>
-                <p class="small mb-1">✉️ info@sekolah.sch.id</p>
+                <p class="small mb-1">✉️ @smkn1labang.sch.id</p>
             </div>
 
         </div>
@@ -37,7 +37,7 @@
 
         <!-- Copyright -->
         <div class="text-center small text-muted">
-            © 2025 SMA Negeri 1 Labang. All rights reserved.
+            © 2025 SMK Negeri 1 Labang. All rights reserved.
         </div>
     </div>
 </footer>

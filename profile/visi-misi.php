@@ -18,7 +18,7 @@
                 <div class="row row-cols-1 row-cols-md-2 g-4">
                     <div class="col">
                         <div class="ratio ratio-1x1 mx-auto" style="width: 80%;">
-                            <img src="https://images.unsplash.com/photo-1764593154804-e7646a005ce0?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fHx8fA%3D%3D"
+                            <img src="https://smkn1labang.sch.id/img/bukepsek2.png"
                                 class="w-100 h-100 object-fit-cover rounded" alt="foto kepala sekolah">
                         </div>
                         <h2 class="text-center mt-2 mb-4 mb-md-2 mt-md-4"

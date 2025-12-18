@@ -21,35 +21,41 @@
 
             <div class="col mb-4">
                 <div class="border rounded shadow-sm overflow-hidden ratio ratio-16x9">
-                    <img src="https://plus.unsplash.com/premium_photo-1765489691892-a822527a76f8?q=80&w=1170"
+                    <img src="/assets/images/galeri1.jpg"
                         alt="foto 1" class="w-100 h-100 object-fit-cover">
                 </div>
             </div>
 
             <div class="col mb-4">
                 <div class="border rounded shadow-sm overflow-hidden ratio ratio-16x9">
-                    <img src="https://plus.unsplash.com/premium_photo-1765489691892-a822527a76f8?q=80&w=1170"
+                    <img src="/assets/images/galeri2.jpg"
                         alt="foto 2" class="w-100 h-100 object-fit-cover">
                 </div>
             </div>
 
             <div class="col mb-4">
                 <div class="border rounded shadow-sm overflow-hidden ratio ratio-16x9">
-                    <img src="https://plus.unsplash.com/premium_photo-1765489691892-a822527a76f8?q=80&w=1170"
+                    <img src="/assets/images/galeri3.jpg"
                         alt="foto 3" class="w-100 h-100 object-fit-cover">
                 </div>
             </div>
 
             <div class="col mb-4">
                 <div class="border rounded shadow-sm overflow-hidden ratio ratio-16x9">
-                    <img src="https://plus.unsplash.com/premium_photo-1765489691892-a822527a76f8?q=80&w=1170"
+                    <img src="/assets/images/galeri4.jpg"
                         alt="foto 4" class="w-100 h-100 object-fit-cover">
                 </div>
             </div>
 
             <div class="col mb-4">
                 <div class="border rounded shadow-sm overflow-hidden ratio ratio-16x9">
-                    <img src="https://plus.unsplash.com/premium_photo-1765489691892-a822527a76f8?q=80&w=1170"
+                    <img src="/assets/images/galeri5.jpg"
+                        alt="foto 5" class="w-100 h-100 object-fit-cover">
+                </div>
+            </div>
+            <div class="col mb-4">
+                <div class="border rounded shadow-sm overflow-hidden ratio ratio-16x9">
+                    <img src="/assets/images/galeri6.jpg"
                         alt="foto 5" class="w-100 h-100 object-fit-cover">
                 </div>
             </div>

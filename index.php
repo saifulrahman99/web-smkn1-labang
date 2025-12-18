@@ -31,7 +31,7 @@
         <div class="carousel-inner">
 
             <div class="carousel-item active position-relative">
-                <img src="https://images.unsplash.com/photo-1761839258575-038fef381ee7?q=80&w=1170" alt="gambar 1">
+                <img src="assets/images/carousel2.jpeg" alt="gambar 1">
 
                 <div class="position-absolute top-0 start-0 w-100 h-100 bg-dark opacity-50"></div>
 
@@ -42,7 +42,7 @@
             </div>
 
             <div class="carousel-item position-relative">
-                <img src="https://images.unsplash.com/photo-1761839258239-2be2146f1605?q=80&w=2070" alt="gambar 2">
+                <img src="assets/images/carousel1.jpeg" alt="gambar 2">
 
                 <div class="position-absolute top-0 start-0 w-100 h-100 bg-dark opacity-50"></div>
 
@@ -72,7 +72,7 @@
             <h1 class="d-block d-md-none text-center">Sambutan Kepala Sekolah</h1>
             <div class="col-12 col-md-4 p-2">
                 <div class="ratio ratio-1x1 mx-auto" style="width: 80%;">
-                    <img src="https://images.unsplash.com/photo-1764593154804-e7646a005ce0?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fHx8fA%3D%3D"
+                    <img src="https://smkn1labang.sch.id/img/bukepsek1.png"
                         class="w-100 h-100 object-fit-cover rounded" alt="foto kepala sekolah">
                 </div>
             </div>
@@ -80,16 +80,7 @@
                 <h1 class="d-none d-md-block">Sambutan Kepala Sekolah</h1>
                 <h2 class="text-center text-md-start mb-4 mb-md-2 mt-md-4" style="font-size: larger;">Dra. ANIK
                     GUNAWANTI ISKANDANI , M.Pd.</h2>
-                <p class="text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque esse officia
-                    dolore? Nemo doloribus,
-                    nisi illo deleniti id quo quaerat unde perspiciatis ullam ut similique numquam magnam incidunt error
-                    molestias voluptas dolorem, ipsum perferendis quisquam? Iste odio ea deleniti ex, ullam aut
-                    voluptatibus qui fugiat. Labore nobis repudiandae eum hic!</p>
-                <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam totam commodi
-                    earum beatae, eaque
-                    excepturi quas, facilis distinctio dolores quod vel ut voluptatibus reprehenderit praesentium non
-                    nobis nihil aliquam natus porro. Facilis corrupti blanditiis alias, laborum eveniet provident totam
-                    adipisci quia! Magni a ad perspiciatis enim libero vitae, nisi nesciunt.</p>
+                <p class="text-justify">Para anak-anakku sekalian yang ibu banggakan, mewakili keluarga besar SMKN 1 Labang ibu mengucapkan selamat datang di tempat ini, di sekolah yang kita cintai bersama ini, di SMKN 1 Labang. Mulai hari ini, anak-anakku kelas Sepuluh telah sah menjadi bagian dari warga sekolah sebagai siswa-siswi. Tempalah ilmu pengetahuan di sekolah ini dan capilah cita-cita kalian setinggi langit melalui pengetahuan yang akan diperoleh dari bapak-ibu guru SMKN 1 Labang dengan penuh kesabaran, terbimbing dan terlatih. Serta terampil dalam mencapai pembelajaran yang dikenal dengan pembelajaran abad 21 di era sekarang ini. Melalui kurikulum merdeka yang telah dianjurkan oleh pemerintah merupakan kesempatan dan peluang untuk mengimplementasikan ide dan gagasan di sekolah ini dengan berdasarkan projek penguatan profil pelajar Pancasila. Jadikanlah era digitalisasi ini sebagai kebutuhan sehari-hari dalam hal positif, hal kretifitas, dan hal lainnya sebagai penunjang materi pembelajaran baik di dalam sekolah maupun di luar sekolah. Sehingga nantinya bisa menyesuaikan diri dengan menyiapkan mental kita dalam memenuhi kebutuhan dunia usaha dan dunia industri.</p>
             </div>
         </div>
     </div>
@@ -97,73 +88,66 @@
     <div class="p-4"></div>
 
     <div class="container">
-        <h1 class="text-center mt-4">Jurusan </h1>
-        <span class="d-block text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus,
-            fugit.</span>
+        <h1 class="text-center mt-4">Kompetensi Keahlian </h1>
+        <span class="d-block text-center">Beberapa Jurusan di SMK Negeri 1 Labang</span>
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 mt-2">
             <div class="col">
                 <div class="card w-100">
-                    <img src="https://plus.unsplash.com/premium_photo-1764715276146-61df9dacd681?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    <img src="https://smkn1labang.sch.id/img/Jurusan/3.png"
                         class="card-img-top" alt="jurusan RPL">
                     <div class="card-body">
                         <h5 class="card-title">RPL</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <p class="card-text">Rekayasa Perangkat Lunak adalah program keahlian di bidang Teknologi Komputer dan Informatika yang fokus pada pengembangan perangkat lunak (software). Siswa akan belajar tentang pembuatan aplikasi, desain antarmuka, serta teknik pemrograman dan sistem informasi yang dibutuhkan di dunia industri IT.</p>
                     </div>
                 </div>
             </div>
             <div class="col">
                 <div class="card w-100">
-                    <img src="https://plus.unsplash.com/premium_photo-1764715276146-61df9dacd681?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    <img src="https://smkn1labang.sch.id/img/Jurusan/4.png"
                         class="card-img-top" alt="jurusan TKJ">
                     <div class="card-body">
                         <h5 class="card-title">TKJ</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <p class="card-text">Teknik Komputer dan Jaringan adalah program keahlian yang mempelajari komputer dan jaringan, termasuk pemasangan, pemeliharaan, serta pengelolaan hardware dan software jaringan komputer. Lulusan siap bekerja di bidang jaringan dan dukungan teknis IT.</p>
                     </div>
                 </div>
             </div>
             <div class="col">
                 <div class="card w-100">
-                    <img src="https://plus.unsplash.com/premium_photo-1764715276146-61df9dacd681?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    <img src="https://smkn1labang.sch.id/img/Jurusan/1.png"
                         class="card-img-top" alt="jurusan AK">
                     <div class="card-body">
                         <h5 class="card-title">AK</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <p class="card-text">Jurusan Akuntansi atau Akuntansi dan Keuangan Lembaga membekali siswa dengan pengetahuan dan keterampilan di bidang keuangan dan akuntansi, termasuk pencatatan transaksi, penyusunan laporan keuangan dan penggunaan software akuntansi yang umum digunakan di dunia kerja.</p>
                     </div>
                 </div>
             </div>
             <div class="col">
                 <div class="card w-100">
-                    <img src="https://plus.unsplash.com/premium_photo-1764715276146-61df9dacd681?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    <img src="https://smkn1labang.sch.id/img/Jurusan/5.png"
                         class="card-img-top" alt="jurusan TSM">
                     <div class="card-body">
                         <h5 class="card-title">TSM</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <p class="card-text">Teknik Bisnis dan Sepeda Motor adalah program keahlian yang menggabungkan ilmu teknik otomotif, khususnya sepeda motor, dengan keterampilan bisnis. Siswa akan belajar tentang perbaikan dan perawatan motor serta aspek manajemen bisnisnya.</p>
                     </div>
                 </div>
             </div>
             <div class="col">
                 <div class="card w-100">
-                    <img src="https://plus.unsplash.com/premium_photo-1764715276146-61df9dacd681?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    <img src="https://smkn1labang.sch.id/img/Jurusan/6.png"
                         class="card-img-top" alt="jurusan TKR">
                     <div class="card-body">
                         <h5 class="card-title">TKR</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <p class="card-text">Jurusan Teknik Kendaraan Ringan Otomotif fokus pada perawatan dan perbaikan kendaraan ringan seperti mobil. Siswa dilatih keterampilan teknis untuk mendiagnosa, memperbaiki, dan merawat bagian kendaraan agar siap bekerja di bengkel atau industri otomotif.</p>
                     </div>
                 </div>
             </div>
             <div class="col">
                 <div class="card w-100">
-                    <img src="https://plus.unsplash.com/premium_photo-1764715276146-61df9dacd681?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    <img src="https://smkn1labang.sch.id/img/Jurusan/2.png"
                         class="card-img-top" alt="jurusan TEI">
                     <div class="card-body">
                         <h5 class="card-title">TEI</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <p class="card-text">Teknik Elektronika Industri adalah jurusan yang berfokus pada elektronika di bidang otomasi industri, perawatan dan sistem kontrol industri. Siswa belajar tentang komponen elektronik, sistem kontrol mesin, dan penerapannya pada proses produksi industri.</p>
                     </div>
                 </div>
             </div>

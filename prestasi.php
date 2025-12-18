@@ -25,22 +25,27 @@
             </div>
             <div class="col mb-4">
                 <div class="border rounded shadow-sm overflow-hidden">
-                    <img src="/assets/images/prestasi.jpg" alt="foto prestasi" class="w-100">
+                    <img src="/assets/images/prestasi2.jpg" alt="foto prestasi" class="w-100">
                 </div>
             </div>
             <div class="col mb-4">
                 <div class="border rounded shadow-sm overflow-hidden">
-                    <img src="/assets/images/prestasi.jpg" alt="foto prestasi" class="w-100">
+                    <img src="/assets/images/prestasi8.jpg" alt="foto prestasi" class="w-100">
                 </div>
             </div>
             <div class="col mb-4">
                 <div class="border rounded shadow-sm overflow-hidden">
-                    <img src="/assets/images/prestasi.jpg" alt="foto prestasi" class="w-100">
+                    <img src="/assets/images/prestasi7.jpg" alt="foto prestasi" class="w-100">
                 </div>
             </div>
             <div class="col mb-4">
                 <div class="border rounded shadow-sm overflow-hidden">
-                    <img src="/assets/images/prestasi.jpg" alt="foto prestasi" class="w-100">
+                    <img src="/assets/images/prestasi9.jpg" alt="foto prestasi" class="w-100">
+                </div>
+            </div>
+            <div class="col mb-4">
+                <div class="border rounded shadow-sm overflow-hidden">
+                    <img src="/assets/images/prestasi3.jpg" alt="foto prestasi" class="w-100">
                 </div>
             </div>
         </div>
