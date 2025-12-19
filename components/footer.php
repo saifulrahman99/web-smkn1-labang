@@ -16,10 +16,10 @@
             <div class="col-md-4">
                 <h6 class="fw-semibold">Menu</h6>
                 <ul class="list-unstyled">
-                    <li><a href="#" class="text-decoration-none text-light">Home</a></li>
-                    <li><a href="#" class="text-decoration-none text-light">Profil Sekolah</a></li>
-                    <li><a href="#" class="text-decoration-none text-light">Prestasi</a></li>
-                    <li><a href="#" class="text-decoration-none text-light">Galeri</a></li>
+                    <li><a href="/index.php" class="text-decoration-none text-light">Home</a></li>
+                    <li><a href="/profile/profile-sekolah.php" class="text-decoration-none text-light">Profil Sekolah</a></li>
+                    <li><a href="/prestasi.php" class="text-decoration-none text-light">Prestasi</a></li>
+                    <li><a href="/galeri.php" class="text-decoration-none text-light">Galeri</a></li>
                 </ul>
             </div>
 

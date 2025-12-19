@@ -36,7 +36,7 @@
         </div>
     </div>
 
-    <div class="p-5"></div>
+    
 
     <?php require_once('../components/footer.php') ?>
 

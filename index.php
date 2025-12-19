@@ -96,7 +96,7 @@
                     <img src="https://smkn1labang.sch.id/img/Jurusan/3.png"
                         class="card-img-top" alt="jurusan RPL">
                     <div class="card-body">
-                        <h5 class="card-title">RPL</h5>
+                        <h5 class="card-title fw-bold">Rekayasa Perangkat Lunak</h5>
                         <p class="card-text">Rekayasa Perangkat Lunak adalah program keahlian di bidang Teknologi Komputer dan Informatika yang fokus pada pengembangan perangkat lunak (software). Siswa akan belajar tentang pembuatan aplikasi, desain antarmuka, serta teknik pemrograman dan sistem informasi yang dibutuhkan di dunia industri IT.</p>
                     </div>
                 </div>
@@ -106,7 +106,7 @@
                     <img src="https://smkn1labang.sch.id/img/Jurusan/4.png"
                         class="card-img-top" alt="jurusan TKJ">
                     <div class="card-body">
-                        <h5 class="card-title">TKJ</h5>
+                        <h5 class="card-title fw-bold">Teknik Komputer dan Jaringan</h5>
                         <p class="card-text">Teknik Komputer dan Jaringan adalah program keahlian yang mempelajari komputer dan jaringan, termasuk pemasangan, pemeliharaan, serta pengelolaan hardware dan software jaringan komputer. Lulusan siap bekerja di bidang jaringan dan dukungan teknis IT.</p>
                     </div>
                 </div>
@@ -116,7 +116,7 @@
                     <img src="https://smkn1labang.sch.id/img/Jurusan/1.png"
                         class="card-img-top" alt="jurusan AK">
                     <div class="card-body">
-                        <h5 class="card-title">AK</h5>
+                        <h5 class="card-title fw-bold">Akutansi Lembaga</h5>
                         <p class="card-text">Jurusan Akuntansi atau Akuntansi dan Keuangan Lembaga membekali siswa dengan pengetahuan dan keterampilan di bidang keuangan dan akuntansi, termasuk pencatatan transaksi, penyusunan laporan keuangan dan penggunaan software akuntansi yang umum digunakan di dunia kerja.</p>
                     </div>
                 </div>
@@ -126,7 +126,7 @@
                     <img src="https://smkn1labang.sch.id/img/Jurusan/5.png"
                         class="card-img-top" alt="jurusan TSM">
                     <div class="card-body">
-                        <h5 class="card-title">TSM</h5>
+                        <h5 class="card-title fw-bold">Teknik Sepeda Motor</h5>
                         <p class="card-text">Teknik Bisnis dan Sepeda Motor adalah program keahlian yang menggabungkan ilmu teknik otomotif, khususnya sepeda motor, dengan keterampilan bisnis. Siswa akan belajar tentang perbaikan dan perawatan motor serta aspek manajemen bisnisnya.</p>
                     </div>
                 </div>
@@ -136,7 +136,7 @@
                     <img src="https://smkn1labang.sch.id/img/Jurusan/6.png"
                         class="card-img-top" alt="jurusan TKR">
                     <div class="card-body">
-                        <h5 class="card-title">TKR</h5>
+                        <h5 class="card-title fw-bold">Teknik Kendaraan Ringan</h5>
                         <p class="card-text">Jurusan Teknik Kendaraan Ringan Otomotif fokus pada perawatan dan perbaikan kendaraan ringan seperti mobil. Siswa dilatih keterampilan teknis untuk mendiagnosa, memperbaiki, dan merawat bagian kendaraan agar siap bekerja di bengkel atau industri otomotif.</p>
                     </div>
                 </div>
@@ -146,7 +146,7 @@
                     <img src="https://smkn1labang.sch.id/img/Jurusan/2.png"
                         class="card-img-top" alt="jurusan TEI">
                     <div class="card-body">
-                        <h5 class="card-title">TEI</h5>
+                        <h5 class="card-title fw-bold">Teknik Elektronika Industri</h5>
                         <p class="card-text">Teknik Elektronika Industri adalah jurusan yang berfokus pada elektronika di bidang otomasi industri, perawatan dan sistem kontrol industri. Siswa belajar tentang komponen elektronik, sistem kontrol mesin, dan penerapannya pada proses produksi industri.</p>
                     </div>
                 </div>
